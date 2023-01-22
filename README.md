@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MarcoBonato09
-- 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in competitive coding and artificial intelligence
 - 📫 How to reach me: marcobonato09@gmail.com
