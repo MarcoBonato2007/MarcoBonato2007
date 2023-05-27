@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MarcoBonato09
 - 👀 I’m working on learning data engineering
 - 📫 How to reach me: marcobonato09@gmail.com
-- 📙 Languages: English, Italian, Dutch, German
+- 🗣️ Languages: English, Italian, Dutch, German
+- 📙 Academic qualifications: Currently finishing GCSEs
 - 👾 Skills: Python, currently learning data engineering tools (e.g. sql, tableau)
