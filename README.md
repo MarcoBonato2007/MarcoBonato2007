@@ -4,3 +4,4 @@
 - 🗣️ Languages: English, Italian, Dutch, German
 - 📙 Academic qualifications: General Certificate of Secondary Education, Maximum grades in ...
 - 👾 Skills: Python, currently learning data engineering tools (e.g. sql, tableau)
+- 👩‍💻 Projects: Please check my projects repository (https://github.com/MarcoBonato09/projects)
