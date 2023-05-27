@@ -1,18 +1,21 @@
-# Hey, I'm Marco.
-I'm (at the time of making this) a 16-year old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data engineering. I hope to become a data engineer and eventually work my way up the data science hierarchy of needs (see bottom) as I gain experience. 
+# Hey, I'm Marco. <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" height=25>
 
+<a href="https://github.com/MarcoBonato09?tab=repositories"><img src="https://img.shields.io/badge/-projects-grey?style=flat&logo=github&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/marco-bonato-849734231/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
+<img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
-- My [Linkedin](https://www.linkedin.com/in/marco-bonato-849734231/)
-- Contact me: marcobonato09@gmail.com
+I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data engineering. I hope to become a data engineer and eventually work my way up the data science hierarchy as I gain experience. 
 
 ## Skills and qualifications
-- Full proficiency in Python (programming language)
+
+- Full proficiency in Python
 - Currently learning skills such as SQL and tableau
 - Able to understand and use documentation, for example to interact with API's
 - Completed the General Certificate of Secondary Education, where i achieved maximum grades in ...
 - Able to speak English, Italian, Dutch and German
 
-## [Projects](https://github.com/MarcoBonato09/projects)
+## Projects
 
 Some projects I have worked on (but are deleted or unfinished) are:
 - Basic projects such as a wordle bot, hangman, etc.
@@ -20,16 +23,15 @@ Some projects I have worked on (but are deleted or unfinished) are:
 - Data analysis, done on scraped YouTube data using the Python [Requests library](https://pypi.org/projects/requests/) and [Jupyter notebook](https://jupyter.org/)
 - Coding a neural network from scratch in Python
 
-## Hobbies and things I find fun
+## Hobbies and things I find fun 
+
 - Tennis
 - Swimming
 - Working out
 - Mathematics
+- Netflix & Anime
 - Computer Science
 - Programming
 - Youtube
 - Learning
 - Model United Nations (I have attended conferences such as [MUNish](https://munish.nl/), [HMUN](https://hmun.nl/) and [BSNMUN](https://bsnmun.com/))
-
-## The Data Science hierarchy of needs
-![](https://hackernoon.imgix.net/hn-images/1*7IMev5xslc9FLxr9hHhpFw.png)
