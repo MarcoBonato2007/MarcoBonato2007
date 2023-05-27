@@ -5,7 +5,7 @@
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
-I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data engineering. I hope to become a data engineer and eventually work my way up the data science hierarchy as I gain experience. 
+I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data engineering. I hope to become a data engineer and eventually work my way up the [data science hierarchy](https://miro.medium.com/v2/resize:fit:1400/0*tdph3Kd3pRlfZv3w) as I gain experience. 
 
 ## Skills and qualifications
 
