@@ -6,9 +6,7 @@
 <a href="https://twitter.com/MarcoBonato09"><img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&logoColor=white" height=25></a>
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
-
-
-I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data science. I hope to work my way up the [data science hierarchy](https://miro.medium.com/v2/resize:fit:1400/0*tdph3Kd3pRlfZv3w) as I gain experience. 
+I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning a form of software engineering. I am currently deciding between specialisations such as data engineering, web development, etc.
 
 ## Skills and qualifications
 
