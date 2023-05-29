@@ -13,7 +13,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 
 - I am willing and able to learn new skills and frameworks (e.g. JavaScript or React.js)
 - Full proficiency in Python
-- Currently learning SQL on https://SQLBolt.com
+- Currently learning SQL. You can view part of my learning on my [Hackerrank profile](https://www.hackerrank.com/marcobonato09?hr_r=1)
 - Able to understand and use documentation, for example to interact with API's
 - Completed the General Certificate of Secondary Education, where i achieved maximum grades in ...
 - Currently undertaking the A-Level qualification. I chose Maths, Further Maths, Physics and Computer Science.
