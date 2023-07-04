@@ -17,7 +17,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 - Able to understand and use documentation, for example to interact with API's
 - Completed the General Certificate of Secondary Education, where i achieved maximum grades in ...
 - Currently undertaking the A-Level qualification. I chose Maths, Further Maths, Physics and Computer Science.
-- Able to speak English, Italian, Dutch and German
+- Able to speak English (fluent), Italian (fluent), Dutch (limited) and German (limited)
 
 ## Projects
 
@@ -25,7 +25,7 @@ Some projects I have worked on (but are deleted or unfinished) are:
 - Basic projects such as a wordle bot, hangman, etc.
 - A Discord bot, made using the [Discord API](https://discord.com/developers/docs/intro/) and the [Hikari library](https://www.hikari-py.dev/)
 - Data analysis, done on scraped YouTube data using the Python [Requests library](https://pypi.org/projects/requests/) and [Jupyter notebook](https://jupyter.org/)
-- Coding a neural network from scratch in Python
+- Coding a neural network from scratch in Python, to use with the [MNIST Database](https://yann.lecun.com/exdb/mnist/)
 
 ## Hobbies and things I find fun 
 
@@ -33,7 +33,7 @@ Some projects I have worked on (but are deleted or unfinished) are:
 - Swimming
 - Working out
 - Mathematics
-- Netflix & Anime
+- Netflix
 - Computer Science
 - Programming
 - Youtube
