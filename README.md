@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/marco-bonato-849734231/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <a href="https://twitter.com/MarcoBonato09"><img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.kaggle.com/marcobonato09"><img src="https://img.shields.io/badge/-kaggle-blue?style=flat&logo=kaggle&logoColor=white" height=25></a>
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
 I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data science.
