@@ -7,13 +7,13 @@
 <a href="https://twitter.com/MarcoBonato09"><img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&logoColor=white" height=25></a>
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
-I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data engineering. I hope to become a data engineer and eventually work my way up the [data science hierarchy](https://miro.medium.com/v2/resize:fit:1400/0*tdph3Kd3pRlfZv3w) as I gain experience. 
+I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming. While I am currently focusing on my studies, I am pursuing learning data science.
 
 ## Skills and qualifications
 
 - I am willing and able to learn new skills and frameworks (e.g. JavaScript or React.js)
 - Full proficiency in Python
-- Currently learning SQL. You can view part of my learning on my [Hackerrank profile](https://www.hackerrank.com/marcobonato09?hr_r=1)
+- Limited SQL proficiency. You can view part of my learning on my [Hackerrank profile](https://www.hackerrank.com/marcobonato09?hr_r=1)
 - Able to understand and use documentation, for example to interact with API's
 - Completed the General Certificate of Secondary Education, where i achieved maximum grades in ...
 - Currently undertaking the A-Level qualification. I chose Maths, Further Maths, Physics and Computer Science.
