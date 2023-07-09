@@ -1,4 +1,4 @@
-w# Hey, I'm Marco. <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" height=25>
+# Hey, I'm Marco. <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" height=25>
 
 <a href="https://www.kaggle.com/marcobonato09/code"><img src="https://img.shields.io/badge/-projects-blue?style=flat&logo=kaggle&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/marco-bonato-849734231/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white" height=25></a>
