@@ -1,4 +1,4 @@
-# Hey, I'm Marco. <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" height=25>
+w# Hey, I'm Marco. <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" height=25>
 
 <a href="https://www.kaggle.com/marcobonato09/code"><img src="https://img.shields.io/badge/-projects-blue?style=flat&logo=kaggle&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/marco-bonato-849734231/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white" height=25></a>
@@ -15,6 +15,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 
 - I am willing and able to learn new skills and frameworks (e.g. Pytorch)
 - Full proficiency in Python
+- Limited SQL proficiency
 - Able to understand and use documentation, for example to interact with API's
 - Completed the General Certificate of Secondary Education, where i achieved maximum grades in ...
 - Currently undertaking the A-Level qualification. I chose Maths, Further Maths, Physics and Computer Science.
