@@ -23,9 +23,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 
 ## Projects
 
-I am currently working on beginner projects. Please see all my projects on my [Kaggle code page](https://www.kaggle.com/marcobonato09/code). Examples include:
-- A basic neural network to predict digits using Keras
-- Predicting whether a Titanic passenger will survive
+I am currently working on beginner projects. Please see all my projects on my [Kaggle code page](https://www.kaggle.com/marcobonato09/code).
 
 ## Hobbies and things I find fun 
 
