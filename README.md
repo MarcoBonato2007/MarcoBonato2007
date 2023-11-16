@@ -19,7 +19,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 
 ## Projects
 
-You can find my work on my [Github projects page](https://github.com/MarcoBonato09?tab=repositories).
+Please refer to my github repositories! [Github projects page](https://github.com/MarcoBonato09?tab=repositories).
 
 ## Hobbies and things I find fun 
 
