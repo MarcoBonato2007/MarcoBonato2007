@@ -7,11 +7,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
-I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming, and I am pursuing a career in machine learning.
-
+I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming and theory.
 ## Skills and qualifications
 
-- I qualified for the [OUCC](https://www.bebras.uk/index.php?action=content&id=42) (Oxford University Computing Challenge)
+- I qualified for the [OUCC](https://www.bebras.uk/index.php?action=content&id=42) (Oxford University Computing Challenge) and made it to ...
 - Please view my algorithmic problem-solving work on [Codeforces page](https://codeforces.com/profile/marcobonato)
 - I am willing and able to learn new skills and frameworks (e.g. Pytorch)
 - Full proficiency in Python
@@ -20,9 +19,10 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 - I am currently undertaking the A-Level qualification. I chose Maths, Further Maths, Physics and Computer Science.
 - Able to speak English (fluent), Italian (fluent), Dutch (limited) and German (limited)
 
-## Projects
+## Projects and work
 
-Please refer to my github repositories! [Github projects page](https://github.com/MarcoBonato09?tab=repositories).
+Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my projects
+Please view my algorithmic problem-solving work on my [Codeforces page](https://codeforces.com/profile/marcobonato)
 
 ## Hobbies and things I find fun 
 
