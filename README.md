@@ -4,6 +4,7 @@
 <a href="https://github.com/MarcoBonato09?tab=repositories"><img src="https://img.shields.io/badge/-github-grey?style=flat&logo=github&logoColor=white" height=25></a>
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <a href="https://codeforces.com/profile/marcobonato"><img src="https://img.shields.io/badge/-codeforces-yellow?style=flat&logo=codeforces&logoColor=white" height=25></a>
+<a href="https://fiverr.com/mbonato"><img src="https://img.shields.io/badge/-freelance work-green?style=flat&logo=fiverr&logoColor=white" height=25></a>
 
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
