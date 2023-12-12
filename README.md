@@ -15,15 +15,15 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 - Please view my algorithmic problem-solving work on [Codeforces page](https://codeforces.com/profile/marcobonato)
 - I am willing and able to learn new skills and frameworks (e.g. Pytorch)
 - Full proficiency in Python
-- Able to understand and use documentation, for example to interact with API's
+- Able to understand and use documentation, for example to interact with API's (e.g. I made a Discord Bot using Discord's Bot API)
 - Completed the General Certificate of Secondary Education, where i achieved 6 grade 9's and 4 grade 8's (the maximum grade is 9).
 - I am currently undertaking the A-Level qualification. I chose Maths, Further Maths, Physics and Computer Science.
 - Able to speak English (fluent), Italian (fluent), Dutch (limited) and German (limited)
 
 ## Projects and work
 
-Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my projects
-Please view my algorithmic problem-solving work on my [Codeforces page](https://codeforces.com/profile/marcobonato)
+Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my projects.
+Please view my algorithmic problem-solving work on my [Codeforces page](https://codeforces.com/profile/marcobonato).
 
 ## Hobbies and things I find fun 
 
@@ -31,9 +31,6 @@ Please view my algorithmic problem-solving work on my [Codeforces page](https://
 - Swimming
 - Working out
 - Mathematics
-- Netflix
 - Computer Science
 - Programming
-- Youtube
-- Learning
 - Model United Nations (I have attended conferences such as [MUNish](https://munish.nl/), [HMUN](https://hmun.nl/) and [BSNMUN](https://bsnmun.com/))
