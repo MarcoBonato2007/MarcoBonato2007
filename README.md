@@ -4,7 +4,6 @@
 <a href="https://github.com/MarcoBonato09?tab=repositories"><img src="https://img.shields.io/badge/-github-grey?style=flat&logo=github&logoColor=white" height=25></a>
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <a href="https://codeforces.com/profile/marcobonato"><img src="https://img.shields.io/badge/-codeforces-yellow?style=flat&logo=codeforces&logoColor=white" height=25></a>
-<a href="https://fiverr.com/mbonato"><img src="https://img.shields.io/badge/-freelance work-green?style=flat&logo=fiverr&logoColor=white" height=25></a>
 
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
 
@@ -13,7 +12,6 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 
 - Please view more on my [LinkedIn Page](https://www.linkedin.com/in/marco-bonato-849734231/)
 - I qualified for the [OUCC](https://www.bebras.uk/index.php?action=content&id=42) by achieving a top 10% score worldwide on the [UK Bebras Challenge](https://www.bebras.uk/index.php?action=welcome) and made it to ...
-- I freelance on [Fiverr](https://fiverr.com/mbonato) to sharpen my time-management and programming skills.
 - I have solved algorithmic problems on [Codeforces](https://codeforces.com/profile/marcobonato), up to problems rated 1500
 - I am willing and able to learn new skills and frameworks (e.g. Pytorch)
 - Full proficiency in Python
