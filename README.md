@@ -11,7 +11,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 ## Skills and qualifications
 
 - Please view more on my [LinkedIn Page](https://www.linkedin.com/in/marco-bonato-849734231/)
-- I qualified for the [OUCC](https://www.bebras.uk/index.php?action=content&id=42) by achieving a top 10% score worldwide on the [UK Bebras Challenge](https://www.bebras.uk/index.php?action=welcome) and made it to ...
+- I qualified for the [OUCC](https://www.bebras.uk/index.php?action=content&id=42) by achieving a top 10% score worldwide on the [UK Bebras Challenge](https://www.bebras.uk/index.php?action=welcome) and achieved a distinction score in the first round (top 25%).
 - I practice algorithmic problem solving on [Codeforces](https://codeforces.com)
 - I am willing and able to learn new skills and frameworks (e.g. Pytorch)
 - Full proficiency in Python
