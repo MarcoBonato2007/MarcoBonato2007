@@ -21,6 +21,7 @@ I'm (at the time of making this) a 16-year Italian old teenager. I love mathemat
 ## Projects and work
 
 - Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my projects.
+- I also built a Neural network from scratch (very useful for learning theory, but not worth it to show on Github since the code isn't that special)
 - Please view my algorithmic problem-solving work on my [Codeforces page](https://codeforces.com/profile/marcobonato).
 
 ## Hobbies and things I find fun 
