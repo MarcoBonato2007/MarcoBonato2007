@@ -7,7 +7,10 @@
 
 I'm a 17-year old Italian teenager. I love mathematics and computer science.
 ## Skills and qualifications
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 - Please view more information, such as my academic achievements and awards, on my [LinkedIn Page](https://www.linkedin.com/in/marco-bonato-849734231/)
 - Generally, I am very good at immersing myself into a problem, researching it, breaking it down and solving it (i.e. problem solving)
 - I practice my algorithmic problem solving skills on [Codeforces](https://codeforces.com)
