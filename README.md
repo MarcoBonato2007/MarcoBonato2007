@@ -28,13 +28,13 @@ I'm a 17-year old Italian teenager, and love mathematics and computer science. I
   - And more lost to the sands of time (like my first hangman program in Python)
 - You can view my algorithmic problem-solving practice on my [Codeforces page](https://codeforces.com/profile/marcobonato).
 
-## Hobbies and things I find fun 
+## Hobbies
 
+- Mathematics
+- Computer Science & programming
 - Going out with friends
 - Spending time with family
 - Running
 - Strength training
 - Drawing
-- Mathematics
-- Computer Science & programming
 - Model United Nations (I have attended conferences such as [MUNish](https://munish.nl/), [HMUN](https://hmun.nl/) and [BSNMUN](https://bsnmun.com/))
