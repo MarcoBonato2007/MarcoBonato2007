@@ -5,7 +5,7 @@
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <a href="https://codeforces.com/profile/marcobonato"><img src="https://img.shields.io/badge/-codeforces-yellow?style=flat&logo=codeforces&logoColor=white" height=25></a>
 
-I'm a 17-year old Italian teenager. I love mathematics and computer science.
+I'm a 17-year old Italian teenager, and love mathematics and computer science. I'm currently in high school pursuing A-levels in Maths, Further Maths, Physics and Computer science.
 ## Skills and qualifications
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
