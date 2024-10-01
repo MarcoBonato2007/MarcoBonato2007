@@ -5,8 +5,6 @@
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <a href="https://codeforces.com/profile/marcobonato"><img src="https://img.shields.io/badge/-codeforces-yellow?style=flat&logo=codeforces&logoColor=white" height=25></a>
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
-
 I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming and theory.
 ## Skills and qualifications
 
