@@ -17,9 +17,13 @@ I'm a 17-year old Italian teenager. I love mathematics and computer science.
 
 ## Projects and work
 
-- Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my projects.
-- I also built a Neural network from scratch (very useful for learning theory, but not worth it to show on Github since the code isn't that special)
-- Please view my algorithmic problem-solving work on my [Codeforces page](https://codeforces.com/profile/marcobonato).
+- Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my large projects.
+- I have also created other projects not included in the repository page (since code-wise they are not so impressive), such as:
+  - A Neural network from scratch (except for the numpy library for matrix math)
+  - A Discord bot using Discord's API
+  - A script to scrape stories from reddit and compile them into short-form videos (e.g. for Youtube shorts)
+  - And more lost to the sands of time (like my first hangman program in Python)
+- You can view my algorithmic problem-solving practice on my [Codeforces page](https://codeforces.com/profile/marcobonato).
 
 ## Hobbies and things I find fun 
 
