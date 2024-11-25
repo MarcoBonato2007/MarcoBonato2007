@@ -18,7 +18,7 @@ I'm a 17-year old Italian teenager, and love mathematics and computer science. I
    -  Second in school for the [UKMT](https://ukmt.org.uk/)
    -  Regular gold awards in [Bebras Uk](https://www.bebras.uk/) and distinctions in the [OUCC](https://www.bebras.uk/index.php?action=content&id=132)
 - I am willing and easily able to learn new skills and frameworks
-- Proficiency in Python, C++ and recently Dart & Flutter.
+- I am a confident programmer, fluent in Python, proficient in C++ and learning Dart & Flutter.
 - I speak English and Italian fluently, Dutch proficiently, and a bit of German.
 
 ## Projects and work
