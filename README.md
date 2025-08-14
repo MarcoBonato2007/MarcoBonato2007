@@ -4,7 +4,7 @@
 <a href="https://github.com/MarcoBonato09?tab=repositories"><img src="https://img.shields.io/badge/-github-grey?style=flat&logo=github&logoColor=white" height=25></a>
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 
-I'm an 18-year old with a passion for mathematics and computer science, and have recently graduated high school, awaiting the results of my A-Levels in Maths, Further Maths, Physics and Computer science. I am an offer holder from Oxford University.
+I'm an 18-year old with a passion for mathematics and computer science, and an incoming Oxford University student.
 ## Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
