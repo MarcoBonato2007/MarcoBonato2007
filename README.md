@@ -11,7 +11,7 @@ I'm currently studying for a master's in computer science at the university of O
 - Python
 - C++
 - Dart
-- Currently learning Haskell and Scala
+- Currently learning Haskell, Scala and C
 
 ### Libraries / frameworks
 - Flutter
